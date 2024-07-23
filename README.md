@@ -7,8 +7,8 @@ To analyze an individual’s personal expenses using Excel for data storage and 
 ![image](https://github.com/user-attachments/assets/fc8cc848-3b6f-4d71-97b8-72074c731189)
 
 # Tools and Technologies
-Excel: Used as the source for raw Finance data.
-Excel: Used for developing the dashboard to visualize the analysis results.
+1. Excel: Used as the source for raw Finance data.
+2. Excel: Used for developing the dashboard to visualize the analysis results.
 
 # Analysis and Results
 The analysis aims to uncover key trends and insights within the Finance data, such as:
