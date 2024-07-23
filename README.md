@@ -1,7 +1,7 @@
 # Personal-Finance_Dashboard
 
-Overview
-This project focuses on analyzing HR data of a business using Excel for data storage and Power BI for visualization. The goal is to provide actionable insights for HR professionals and business stakeholders to improve employee management, determine major causes of attrition, reduce attrition, and enhance overall organizational performance.
+# Overview
+This project focuses on analyzing the personanal expences of a person using Excel for data storage and for visualization. The goal is to provide actionable insights for HR professionals and business stakeholders to improve employee management, determine major causes of attrition, reduce attrition, and enhance overall organizational performance.
 
 HR Dashboard
 
