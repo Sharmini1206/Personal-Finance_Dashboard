@@ -1,7 +1,7 @@
 # Personal-Finance_Dashboard
 
 # Overview
-This project focuses on analyzing the personanal expences of a person using Excel for data storage and for visualization. The goal is to provide actionable insights for HR professionals and business stakeholders to improve employee management, determine major causes of attrition, reduce attrition, and enhance overall organizational performance.
+To analyze an individual’s personal expenses using Excel for data storage and visualization. The aim is to provide actionable insights that improve financial management by identifying major expense categories, finding opportunities to reduce costs, and enhancing overall financial well-being.
 
 HR Dashboard
 
