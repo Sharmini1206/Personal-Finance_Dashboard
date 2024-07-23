@@ -4,7 +4,7 @@
 To analyze an individual’s personal expenses using Excel for data storage and visualization. The aim is to provide actionable insights that improve financial management by identifying major expense categories, finding opportunities to reduce costs, and enhancing overall financial well-being.
 
 # Finance Dashboard
-![image](https://github.com/user-attachments/assets/4f4ceadd-fd4f-445e-b300-a9fbafbf3d16)
+![image](https://github.com/user-attachments/assets/fc8cc848-3b6f-4d71-97b8-72074c731189)
 
 Tools and Technologies
 Excel: Used as the source for raw HR data.
