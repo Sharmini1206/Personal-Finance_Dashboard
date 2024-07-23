@@ -8,7 +8,7 @@ To analyze an individual’s personal expenses using Excel for data storage and 
 
 # Tools and Technologies
 Excel: Used as the source for raw Finance data.
-     : Used for developing the dashboard to visualize the analysis results.
+Excel: Used for developing the dashboard to visualize the analysis results.
 
 # Analysis and Results
 The analysis aims to uncover key trends and insights within the Finance data, such as:
@@ -16,5 +16,5 @@ The analysis aims to uncover key trends and insights within the Finance data, su
 2. Monthly Expense Trends: Identify monthly expense patterns to manage finances more effectively.
 3. Expense Performance Insights: Evaluate expense types to identify high-cost areas and opportunities for savings, leading to improved personal financial management.
 
-#Conclusion
+# Conclusion
 This project provides a detailed analysis of a personal Financial data, delivering valuable insights to enhance finance management and expense performance. By leveraging Excel for data storage and for visualization, the project establishes a robust framework for continuous monitoring and improvement of Financial management practices.
